@@ -1,3 +1,4 @@
-# My First Post!
-
-Nothing to post actually.
+---
+title: "My first post"
+date: 2021-04-27
+---
